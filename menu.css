@@ -1,0 +1,52 @@
+img{
+  width: 100%;
+ 
+}
+body{
+  background-color:hsl(30, 54%, 90%);
+  font-family:Arial, Helvetica, sans-serif;
+  width: 1440px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+  }
+ section{
+  width: 25%;
+  float: left;
+  margin-left: 30%;
+  background-color:hsl(0, 0%, 100%);
+  display: block;
+  justify-content: space-evenly;
+  padding: 20px;
+  border-radius: 10px;
+   }
+
+   .simple{
+    font-size: xx-large;
+   }
+   .preparation{
+    font-family: 'Times New Roman', Times, serif;
+
+   }
+   .preparation::first-line{
+    color:  hsl(332, 51%, 32%);
+   }
+   
+   .Ingredients{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    display:inline-block;
+
+   }
+
+   .Instructions::first-line{
+    color:  hsl(332, 51%, 32%);
+   }
+  
+
+ 
+
+
+
+
